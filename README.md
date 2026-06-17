@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates how to create an Azure Load Balancer using Terraform.
+This project demonstrates how to create an Azure Load Balancer using Terraform simple code.
 
 Azure Load Balancer distributes incoming network traffic across multiple backend resources to improve availability, scalability, and performance.
 
